@@ -1,0 +1,22 @@
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\bin\Debug\KullanıcıGiris.exe.config
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\bin\Debug\KullanıcıGiris.exe
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\bin\Debug\KullanıcıGiris.pdb
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.csproj.AssemblyReference.cache
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.csproj.SuggestedBindingRedirects.cache
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.Form1.resources
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.Properties.Resources.resources
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.csproj.GenerateResource.cache
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.exe
+C:\Users\berat\source\repos\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.pdb
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\bin\Debug\KullanıcıGiris.exe.config
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\bin\Debug\KullanıcıGiris.exe
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\bin\Debug\KullanıcıGiris.pdb
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.csproj.AssemblyReference.cache
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.csproj.SuggestedBindingRedirects.cache
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.Form1.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.Properties.Resources.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.csproj.GenerateResource.cache
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.csproj.CoreCompileInputs.cache
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.exe
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\KullanıcıGiris\KullanıcıGiris\obj\Debug\KullanıcıGiris.pdb
